@@ -1,14 +1,4 @@
 venv
 
-# folder woth visuals
-data/visuals/*
-
-# folder with .xlsx containing questions/answers/etc
-data/questions/*
-
-# files kept for testing 
-data/wizualizacje_do_pytan_27.06.2023.zip
-data/baza_pytań_dla_mi_27_06_2023.xlsx
-
 # build folder
 build
